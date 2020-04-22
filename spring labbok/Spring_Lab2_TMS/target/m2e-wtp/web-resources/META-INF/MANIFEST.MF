@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring_Lab2_TMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: krush
+Implementation-Vendor-Id: com.capg
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mvc
+Created-By: Maven Integration for Eclipse
+
